@@ -1,0 +1,3 @@
+[submodule "librerias/pandas_exercises"]
+	path = librerias/pandas_exercises
+	url = https://github.com/guipsamora/pandas_exercises.git
